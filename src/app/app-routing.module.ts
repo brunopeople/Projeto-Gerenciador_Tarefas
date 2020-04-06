@@ -9,7 +9,7 @@ const routes: Routes = [
 	  path: '',
 	  redirectTo: '/tarefas/listar',
 	  pathMatch: 'full'
-	}
+	},
 
 ...TarefaRoutes
 
